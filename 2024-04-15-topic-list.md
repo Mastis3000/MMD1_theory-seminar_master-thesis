@@ -15,7 +15,6 @@ _ look mom no computer, waste orchestra, error-synths, the archeologist…
 _ outils de synthèse, diffusion, enregistrement, visualisation du son
 
 ### Computational music - algorithmes dans les arts sonores.
-
 Comment les ordinateurs et avancées technologiques ont-ils bouleversé l'univers de la musique électronique
 
 _ enjeux économiques, sociaux, environnementaux (E-waste, capitalisme, fin guerre froide, événements majeurs, évolution de la manière de consommer la musique au fil du temps).
@@ -28,7 +27,6 @@ _ Stochastic algorithms, rythmes euclidiens, probabilités, cellular automata (c
 _ arrivées de logiciels tels que maxmsp, pure data, touchdesigner, madmapper etc…
 
 ### Electromagnetic waves in sound design field
-
 _ autres types de sons (infrasonics, ultrasonic, non perceptibles par l'oreille humaine)
 _ le son dans l'espace, abysses…
-_ pollution du paysage sonore dans les villes, devices technologiques en oversaturation de diffusion d'ondes…
+_ pollution du paysage sonore dans les villes, oversaturation
