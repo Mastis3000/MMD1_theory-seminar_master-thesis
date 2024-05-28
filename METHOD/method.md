@@ -11,5 +11,3 @@ So the method will be physical interviews (as far as possible), discovery of wor
 - Error instruments - https://www.errorinstruments.com/
 - Colossus audio - https://www.colossusaudio.com/
 
-## Projects References
--
