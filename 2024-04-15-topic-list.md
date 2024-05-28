@@ -1,6 +1,6 @@
 # Master thesis - liste de sujets
 
-## Old synthesizer in new music:
+## Old synthesizer in new music
 pourquoi les vieux instruments ont ils autant la côte alors que les technologies du 21e siècle proposent des solutions plus performantes et moins couteuses?
 
 _ Analogique versus digital
@@ -9,7 +9,7 @@ _ Évolution des pratiques de production/écoute, Nostalgie de pièces initialem
 
 _ Évolution de la technologie dans la conception d'outils de design sonore.
 
-## Computational music - algorithmes dans les arts sonores.
+## Computational music - algorithmes dans les arts sonores
 Comment les ordinateurs et avancées technologiques ont-ils bouleversé l'univers de la musique électronique
 
 _ évolution de la performance live (audio visuel augmenté via programmation)
@@ -40,7 +40,7 @@ _ pollution du paysage sonore dans les villes, oversaturation
 ___________________________________________________________________________________
 
 
-## E-waste, réutilisation de vieille électronique dans le domaine des arts sonores.
+## E-waste, réutilisation de vieille électronique dans le domaine des arts sonores
 
 Comment les artistes s'approprie du matériel électronique usagé dans le développement de leur propres outils?
 
@@ -54,7 +54,7 @@ _ outils de synthèse, diffusion, enregistrement, visualisation du son (oscillos
 
 _ esthétique sonore / produits-interfaces
 
-### Questions/Problématiques:
+### Questions/Problématiques
 
 • Comment les pratiques DIY peuvent-elles favoriser l'innovation et la créativité dans la production musicale électronique tout en réduisant l'empreinte carbone de l'industrie ?
 
@@ -68,7 +68,7 @@ _ esthétique sonore / produits-interfaces
 
 • Comment les normes de l'industrie de la musique électronique peuvent-elles évoluer pour encourager l'adoption de pratiques plus durables, y compris la réutilisation de composants électroniques, tout en maintenant des normes élevées de qualité sonore?
 
-### Aspects intéressants:
+### Aspects intéressants
 
 _ Qualité sonore vs. recycling
 
