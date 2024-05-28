@@ -41,16 +41,16 @@ ________________________________________________________________________________
 
 
 ## E-waste, réutilisation de vieille électronique dans le domaine des arts sonores.
+
 Comment les artistes s'approprie du matériel électronique usagé dans le développement de leur propres outils?
-Comment les artistes développent-ils leurs propres outils (recycling)
 
 _ créer ses propres outils 100% durables.
 
 _ hacking electronics
 
-_ look mom no computer, waste orchestra, error-synths, the archeologist…
+_ Refs: look mom no computer, waste orchestra, error-synths, the archeologist…
 
-_ outils de synthèse, diffusion, enregistrement, visualisation du son
+_ outils de synthèse, diffusion, enregistrement, visualisation du son (oscilloscope, spectrogramme...etc.)
 
 _ esthétique sonore / produits-interfaces
 
@@ -66,7 +66,7 @@ _ esthétique sonore / produits-interfaces
 
 • Quelles sont les différences perceptibles en termes de qualité sonore entre les équipements de musique électronique DIY fabriqués à partir de composants recyclés et ceux fabriqués à partir de composants neufs ?
 
-• Comment les normes de l'industrie de la musique électronique peuvent-elles évoluer pour encourager l'adoption de pratiques plus durables, y compris la réutilisation de composants électroniques, tout en maintenant des normes élevées de qualité sonore ?
+• Comment les normes de l'industrie de la musique électronique peuvent-elles évoluer pour encourager l'adoption de pratiques plus durables, y compris la réutilisation de composants électroniques, tout en maintenant des normes élevées de qualité sonore?
 
 ### Aspects intéressants:
 
