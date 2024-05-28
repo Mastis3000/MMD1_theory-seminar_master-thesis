@@ -36,6 +36,8 @@ _ le son dans l'espace, abysses…
 
 _ pollution du paysage sonore dans les villes, oversaturation
 
+
+
 ## E-waste, réutilisation de vieille électronique dans le domaine des arts sonores.
 Comment les artistes s'approprie du matériel électronique usagé dans le développement de leur propres outils?
 Comment les artistes développent-ils leurs propres outils (recycling)
