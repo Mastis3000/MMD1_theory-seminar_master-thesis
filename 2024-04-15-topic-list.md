@@ -75,3 +75,17 @@ _ Qualité sonore vs. recycling
 _ Transition de l'industrie vers une production plus durable
 
 _ innovation technologique dans la pratique du diy.
+
+### Méthode
+
+Pour ce projet de recherche, je vais rencontrer des personnes qui construisent des synthétiseurs, modules d'effets, outils d'enregistrements et autres outils de production de musique électronique à partir de vieux composants. Le but est de les questionner par rapport à leur positionnement par rapport au e-waste. 
+La méthode va donc être des interviews, ainsi que privilégier des moments de visites d'atelier, de suivi de process (de la récup à la fabrication en passant par la commercialisation et l'utilisation live).
+Les quesitonner par rapport au rapport qualité/durabilité. Les possibles innovations en terme de fonctionalités, d'ergonomie quant à l'utilisation. parler de rentabilité en terme de coût de production, possibilités de faire des séries…etc.
+
+### Références
+- Nicolas Collins - https://www.nicolascollins.com/
+- Boodaman/Cavisynth - https://cavisynth.com/about/
+- SMEM - https://www.smemmusic.ch/
+- Error instruments - https://www.errorinstruments.com/
+- Colossus audio - https://www.colossusaudio.com/
+- Claire Williams - http://www.xxx-clairewilliams-xxx.com/
