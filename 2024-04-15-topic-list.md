@@ -248,17 +248,16 @@ Bibliographie:
 
 ## 03 Structure/début d'écriture
 
-Introduction
-_ Chapitre
-__
-__
-_ Chapitre
-__
-__
-_ Chapitre
-__
-__
-_ Chapitre
-__
-__
-Conclusion
+Préface/introduction problématique
+
+Introduction musique électronique expérimental/contexte historique social
+
+DIY et distanciation éthique du consumérisme et nouvelles technologi
+
+Quelques dispositifs sonores remarquables
+
+Interviews
+
+développement problématique
+
+conclusion
