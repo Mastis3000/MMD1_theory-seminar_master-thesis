@@ -102,17 +102,17 @@ Différentes techniques sont mises en oeuvre dans le but d'utiliser la technolog
 Plan d'action:
 
 ## 01 interviews
-_ E-Garbage: https://www.instagram.com/e_garbage_/
-_ Human Fluid Rot: https://www.instagram.com/humanfluidrot/
-_ ADSR Genève (CaviSynth): https://www.instagram.com/adsrgeneva/
-_ Ioana Vremer Moser: https://www.instagram.com/ioana.vreme.moser/
-_ Nicolas Collins: https://www.nicolascollins.com/
-_ Swiss museum for electronic music - SMEM: https://www.smemmusic.ch/
-_ Claire Williams - http://www.xxx-clairewilliams-xxx.com/
-_ Cave12
-_ LUF Festival
-_ Look mom no computer: https://www.lookmumnocomputer.com/
-_ Gen Thalz (Noise synths): https://www.instagram.com/genthalz/
+- E-Garbage: https://www.instagram.com/e_garbage_/
+- Human Fluid Rot: https://www.instagram.com/humanfluidrot/
+- ADSR Genève (CaviSynth): https://www.instagram.com/adsrgeneva/
+- Ioana Vremer Moser: https://www.instagram.com/ioana.vreme.moser/
+- Nicolas Collins: https://www.nicolascollins.com/
+- Swiss museum for electronic music - SMEM: https://www.smemmusic.ch/
+- Claire Williams - http://www.xxx-clairewilliams-xxx.com/
+- Cave12
+- LUF Festival
+- Look mom no computer: https://www.lookmumnocomputer.com/
+- Gen Thalz (Noise synths): https://www.instagram.com/genthalz/
 
 Tous ces potentiels interviews sont divisées en 3 catégories:
 
