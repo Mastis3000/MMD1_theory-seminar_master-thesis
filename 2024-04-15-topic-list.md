@@ -211,22 +211,39 @@ Comment imagines-tu l'impact de ton travail DIY sur ta propre pratique artistiqu
 Bibliographie:
 
 [1] N. Collins, « A Solder’s Tale: Putting the “Lead” Back in “Lead Users” », IEEE Pervasive Comput., vol. 7, nᵒ 3, p. 32‑38, juill. 2008, doi: 10.1109/MPRV.2008.42.
+
 [2] N. Nova, « Démonter, extraire, combiner, remonter: Commodore 64 et créolisation technique », tc, nᵒ 67, p. 116‑133, juin 2017, doi: 10.4000/tc.8478.
+
 [3] S. Benhaïm, « DIY et hacking dans la musique noise. Une expérimentation bricoleuse du dispositif de jeu », volume, nᵒ 16 : 1, p. 17‑35, déc. 2019, doi: 10.4000/volume.7230.
+
 [4] N. Collins et C. Canonne, « From Circuitry to Live Improvisation (and Back): Hacking One’s Way Through Contemporary Electronic Music: Entretien avec Clément Canonne », volume, nᵒ 16 : 1, p. 127‑134, déc. 2019, doi: 10.4000/volume.7331.
+
 [5] J. Sayers, Éd., Making Things and Drawing Boundaries: Experiments in the Digital Humanities. University of Minnesota Press, 2018. doi: 10.5749/j.ctt1pwt6wq.
+
 [6] N. Collins, « microcomputermusic ».
+
 [7] N. Nova et F. Ribac, « Musi[ha]cking : Ce que la musique fait au hacking (et inversement) », volume, nᵒ 16 : 1, p. 115‑126, déc. 2019, doi: 10.4000/volume.7284.
+
 [8] T. Pinch et D. Reinecke, « Technostalgia: How Old Gear Lives on in New Music », 2024.
+
 [9] P. Webster, « Historical Perspectives on Technology and Music », Music Educators Journal, vol. 89, nᵒ 1, p. 38‑54, 2002, doi: 10.2307/3399883.
+
 [10] T. Pinch et K. Bijsterveld, « Sound Studies: New Technologies and Music », Soc Stud Sci, vol. 34, nᵒ 5, p. 635‑648, oct. 2004, doi: 10.1177/0306312704047615.
+
 [11] E. Bates, « The Social Life of Musical Instruments », Ethnomusicology, vol. 56, nᵒ 3, p. 363‑395, sept. 2012, doi: 10.5406/ethnomusicology.56.3.0363.
+
 [12] M. Knakkergaard, « Unsound Sound: On the Ontology of Sound in the Digital Age », Leonardo Music Journal, vol. 26, p. 64‑67, déc. 2016, doi: 10.1162/LMJ_a_00978.
+
 [13] N. Collins, « COMPOSING INSIDE ELECTRONICS », Published research in the field of experimental music, 1988 – 2007
+
 [14] S. Graham, « Noise as Concept, History, and Scene », Sounds of the Underground, 2016, doi: 10.3998
+
 [15] D. Verbuč, « Nonmusicians as “Pillars” and “Icons” of US DIY Music Scenes », American Music, vol. 39, nᵒ 3, p. 365‑390, 2021.
+
 [16] J. Sayers, Éd., Making Things and Drawing Boundaries: Experiments in the Digital Humanities. University of Minnesota Press, 2018. doi: 10.5749/j.ctt1pwt6wq.
+
 [17] A. Saiber, « The Polyvalent Discourse of Electronic Music », PMLA, vol. 122, nᵒ 5, p. 1613‑1625, 2007.
+
 [18] Y. Boeva, D. Elliott, E. Jones-Imhotep, S. Muhammedi, et W. J. Turkel, « Doing History by Reverse Engineering Electronic Devices », in Making Things and Drawing Boundaries, J. Sayers, Éd., in Experiments in the Digital Humanities. , University of Minnesota Press, 2017, p. 163‑176. doi: 10.5749/j.ctt1pwt6wq.21.
 
 ## 03 Structure/début d'écriture
